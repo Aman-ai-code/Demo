@@ -1,3 +1,3 @@
 # Demo
 This is my first Git Repositry.
-Author - Aman kumar
+Author - Aman (Kumar)
